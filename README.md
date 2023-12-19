@@ -111,13 +111,3 @@ For the rest you can register and login by following the prompts.
 
  Keep in mind the mobile number must be 10 numbers and above and the password must be strong with minimum 8 characters.
 
-Generating Reports
-The Reports section provides  reports  to gain insights into Product stock
-1.Locate the Download list button  and click it  .
-Note that it will be  "PDF" Format
-
-Logout
-To log out of the application, click on the "Logout" icon in the top navigation bar.
-
-If you have any questions or issues while using the application, please contact at keronjunior234@gmail.com.
-
